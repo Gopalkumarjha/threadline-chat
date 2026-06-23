@@ -2,6 +2,11 @@
 
 A beautiful, modern, and highly responsive real-time chat application featuring a natural, human-made aesthetic inspired by modern platforms like WhatsApp Web, Snapchat, and iMessage.
 
+### 🚀 Quick Start (Localhost)
+If the application is running locally, you can access it here:
+- **Frontend App:** [http://localhost:5173](http://localhost:5173)
+- **Backend API:** [http://localhost:4000](http://localhost:4000)
+
 ## 🚀 Features
 - **Real-time Messaging**: Instant, sub-second message delivery using WebSockets (Socket.io).
 - **Rich File Sharing**: Upload and send images/files seamlessly. Previews render instantly within chat bubbles.
@@ -11,7 +16,7 @@ A beautiful, modern, and highly responsive real-time chat application featuring 
 - **Authentication**: Secure JWT-based login, registration, and session management.
 
 ## 🎥 App Demo
-Here is a live recording of the app in action, showing messaging and dynamic theme switching:
+Here is a local recording (animated WebP) of the app in action, showing messaging and dynamic theme switching. *(Note: There is no live deployed URL currently, please run locally using the setup instructions below).*
 ![App Demo](./public/demo.webp)
 
 ## 🔑 Demo Accounts
